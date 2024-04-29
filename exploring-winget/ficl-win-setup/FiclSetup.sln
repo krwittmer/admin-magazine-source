@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "FiclSetup", "FiclSetup.vdproj", "{E1A29501-978D-4FF8-81CD-2FD53809AB4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1A29501-978D-4FF8-81CD-2FD53809AB4F}.Debug|Default.ActiveCfg = Debug
+		{E1A29501-978D-4FF8-81CD-2FD53809AB4F}.Debug|Default.Build.0 = Debug
+		{E1A29501-978D-4FF8-81CD-2FD53809AB4F}.Release|Default.ActiveCfg = Release
+		{E1A29501-978D-4FF8-81CD-2FD53809AB4F}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CFD410CF-D139-4C23-8C77-A7480C69ADBB}
+	EndGlobalSection
+EndGlobal
