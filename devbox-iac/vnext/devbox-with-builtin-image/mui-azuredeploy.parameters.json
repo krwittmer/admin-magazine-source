@@ -1,0 +1,37 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+      "devcenterName": {
+        "value": "dc-dbox-inst48"
+      },
+      "networkConnectionName": {
+        "value": "netconn-dbox-inst48"
+      },
+      "projectName": {
+        "value": "dcprj-dbox-inst48"
+      },
+      "vnetName": {
+        "value": "vnet-dbox-inst48"
+      },
+      "subnetName": {
+        "value": "default"
+      },
+      "vnetAddressPrefixes": {
+        "value": "10.8.0.0/16"
+      },
+      "subnetAddressPrefixes": {
+        "value": "10.8.0.0/24"
+      },
+      "location": {
+        "value": "westus3"
+      },
+      "principalId": {
+        "value": "90c4a13c-12ff-47cc-ae96-5122408f393b"
+      },
+      "principalType": {
+        "value": "ServicePrincipal"
+      }
+    }
+  }
+  
